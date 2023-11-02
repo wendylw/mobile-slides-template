@@ -1067,7 +1067,6 @@ a {
 #c3 {
   background-color: black;
   position: relative;
-  opacity: 0;
 }
 #c4 {
   background-color: brown;
@@ -1258,6 +1257,11 @@ a {
   to {
     -webkit-box-shadow: 0 0 3px #fff;
   }
+}
+
+.number {
+  font-size: 40px;
+  color: white;
 }
 
 @media screen and (max-width: 400px) {
