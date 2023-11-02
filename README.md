@@ -8,6 +8,6 @@ Must select a mobile simulator on your phone or chrome
 
 ## Usage & Check
 
+https://github.com/wendylw/mobile-slides-template/assets/4416839/8eac6f52-43ed-48ac-bc49-ca29fbef7869
 
-https://github.com/wendylw/mobile-slides-template/assets/4416839/ea778cbb-a70f-40ee-9081-009f41906d8b
 
